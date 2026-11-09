@@ -35,6 +35,9 @@ Rujukan Google Sites rasmi: https://support.google.com/sites/answer/90569
 **Belum diuji:**
 - Peranti Android/iOS fizikal; Safari/Firefox/Edge; Google Sites embed diterbitkan; pembaca PDF sebenar; rangkaian lambat; WCAG automatik/manual; pengujian penetrasi; beban trafik; kebolehcapaian pelayan selepas diterbitkan.
 
+## Perubahan kurikulum 2027
+KPM menyatakan Kurikulum Persekolahan 2027 dijadual bermula bagi Tingkatan 1 pada tahun 2027. Kandungan prototaip ini berpandukan buku KSSM yang dimuat naik dan **belum dipetakan kepada kurikulum 2027**. Sumber KPM: https://www.moe.gov.my/index.php/kurikulum-persekolahan-2027
+
 ## Sekatan keluaran awam
 - Buku PDF asal tidak disertakan kerana terma hak cipta dalam buku yang dimuat naik. Dapatkan izin pengedaran atau pautan rasmi KPM yang membenarkan pengguna membaca.
 - Kandungan semasa ialah nota dan soalan pengenalan, **bukan liputan lengkap KSSM**. Perlu semakan kandungan guru mengikut dokumen kurikulum semasa sebelum projek dikategorikan siap untuk sekolah.
